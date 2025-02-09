@@ -1,7 +1,7 @@
 # 🌞 따 숨
 ![C103_광주1반_자율PJT_자유주제_따숨-01 (1)](https://github.com/user-attachments/assets/a96d9e5b-9dbd-4bbb-8ca1-57b8cbc005bf)
 
-<h2><a href="https://drive.google.com/file/d/12ieCqq11iUwxCCenrPsgTKGT2wYZ7UKG/view?usp=sharing" target="_blank">:green_heart: 시연 영상</a></h2>
+<h2><a href="https://www.youtube.com/watch?v=hfOgEgzNfgU&t=5s" target="_blank">:green_heart: 시연 영상</a></h2>
 
 
 ## 1️⃣ 프로젝트 개요
